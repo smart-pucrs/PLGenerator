@@ -2,7 +2,6 @@
 Version 1.0
 
 ## DESCRIPTION
---------------------------------------------------------------------------------------------------
  This directory contains the data generated for the paper
  “Evaluating the SBR Algorithm using Automatically Generated Plan Libraries”.
  by Giovani Farias et al.
@@ -43,10 +42,8 @@ Version 1.0
 ** NOTE: These plan libraries don't present minimum and maximum number of times that an 
 observation of a plan node must be repeated because an older version of the PLGenerator was used 
 to create these Dataset.
---------------------------------------------------------------------------------------------------
 
 ## REFERENCE
---------------------------------------------------------------------------------------------------
  For any reference to this generator or dataset please use:
 
  Giovani Farias et al.
@@ -58,10 +55,8 @@ to create these Dataset.
  Giovani Farias et al.
  “Evaluating the SBR Algorithm using Automatically Generated Plan Libraries”.
  In: 5th Brazilian Conference on Intelligent System (BRACIS-16). Recife, Pernambuco, Brazil, 2016.
---------------------------------------------------------------------------------------------------
 
 ## CONTACT
---------------------------------------------------------------------------------------------------
  If you have any questions or suggestions please contact giovanifarias@gmail.com
 
 
