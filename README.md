@@ -1,11 +1,11 @@
 # PLGenerator
-	 PLGenerator.jar - (Plan Library Generator) is a mechanism to automatically generate 
-	 arbitrarily complex plan libraries. 
+	 PLGenerator.jar - (Plan Library Generator) is a mechanism to automatically generate arbitrarily
+	 complex plan libraries. 
 
-# SYNOPSIS
+## SYNOPSIS
 	 java -jar PLGenerator.jar [OPTION]... 
 
-# DESCRIPTION
+## DESCRIPTION
 	 -h 	 display this help and exit 
 
 	 -g 	 number of top plans (goals), (default: 3) 
@@ -26,7 +26,7 @@
 	 -s 	 probability [0,1] of create a sequential branch, (default: 0.8) 
 
 	 -D 	 percentage [0,1] of duplicated top-plans (goals) in order to generate 
-		 ambiguous paths, (default: 0) 
+                 ambiguous paths, (default: 0) 
 
 	 -t 	 minimum number of times that an observation of a plan step must be repeated
 	         (default: 1) 
@@ -39,9 +39,9 @@
 
 	 -p 	 output file path to save the plan library, (default: plan_library.xml) 
 
-# AUTHOR
+## AUTHOR
 	 Written by Giovani P. Farias.
 
-# REPORTING BUGS
+## REPORTING BUGS
 	 Report bugs to <giovani.farias@acad.pucrs.br/>
 
