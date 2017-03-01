@@ -1,7 +1,9 @@
 # Plan Library Generator -- DATASET
 
 ## DESCRIPTION
-    This directory contains the data generated for the paper “Evaluating the SBR Algorithm using Automatically Generated Plan Libraries”. by Giovani Farias et al.
+    This directory contains the data generated for the paper
+    “Evaluating the SBR Algorithm using Automatically Generated Plan Libraries”.
+    by Giovani Farias et al.
 
     This extensive dataset was created using the PLGenerator (Plan Library Generator) with a varied
     number of parameters. The XML files represent the several plan libraries created based on these
