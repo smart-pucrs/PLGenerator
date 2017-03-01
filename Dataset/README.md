@@ -1,9 +1,7 @@
-==================================================================================================
-Plan Library Generator (PLGenerator) -- Dataset
+# Plan Library Generator (PLGenerator) -- Dataset
 Version 1.0
-==================================================================================================
 
-# DESCRIPTION
+## DESCRIPTION
 --------------------------------------------------------------------------------------------------
  This directory contains the data generated for the paper
  “Evaluating the SBR Algorithm using Automatically Generated Plan Libraries”.
@@ -45,10 +43,9 @@ Version 1.0
 ** NOTE: These plan libraries don't present minimum and maximum number of times that an 
 observation of a plan node must be repeated because an older version of the PLGenerator was used 
 to create these Dataset.
- 
 --------------------------------------------------------------------------------------------------
 
-# REFERENCE
+## REFERENCE
 --------------------------------------------------------------------------------------------------
  For any reference to this generator or dataset please use:
 
@@ -63,7 +60,7 @@ to create these Dataset.
  In: 5th Brazilian Conference on Intelligent System (BRACIS-16). Recife, Pernambuco, Brazil, 2016.
 --------------------------------------------------------------------------------------------------
 
-# CONTACT
+## CONTACT
 --------------------------------------------------------------------------------------------------
  If you have any questions or suggestions please contact giovanifarias@gmail.com
 
