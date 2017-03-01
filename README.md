@@ -25,8 +25,8 @@
 
 	 -s 	 probability [0,1] of create a sequential branch, (default: 0.8) 
 
-	 -D 	 percentage [0,1] of duplicated top-plans (goals) in order to generate 
-                 ambiguous paths, (default: 0) 
+	 -D 	 percentage [0,1] of duplicated top-plans (goals) in order to generate
+	         ambiguous paths, (default: 0) 
 
 	 -t 	 minimum number of times that an observation of a plan step must be repeated
 	         (default: 1) 
