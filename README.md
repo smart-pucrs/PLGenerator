@@ -43,5 +43,5 @@
 	 Written by Giovani P. Farias.
 
 ## REPORTING BUGS
-	 Report bugs to <giovani.farias@acad.pucrs.br/>
+	 Report bugs to giovani.farias@acad.pucrs.br
 
